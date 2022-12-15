@@ -8,11 +8,11 @@ List of prompts for chatGPT for various tasks assistances.
 
 #### Quora 
 
-- List of 10 best combinations the advanced search operators of quora to find viral questions on niches to promote a [topic]
+- List of 10 best combinations the advanced search operators of quora to find viral questions on niches to promote a `[topic]`
 
-- List of 10 best combinations the advanced search operators of quora to find viral questions on niches to promote a [topic] you didn't mention before
+- List of 10 best combinations the advanced search operators of quora to find viral questions on niches to promote a `[topic] you didn't mention before
 
 #### Content creation
 
-- Write a viral high-quality [content type] that is well-written, informative, and engaging for: [topic]
+- Write a viral high-quality `[content type]` that is well-written, informative, and engaging for: `[topic]`
 
