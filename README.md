@@ -19,3 +19,7 @@ List of prompts for chatGPT for various tasks assistances.
 #### Language support
 
 - tu réponds en français?
+
+#### Email suport
+
+- Answer this email: "" with those features: ""
