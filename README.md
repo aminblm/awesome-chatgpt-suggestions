@@ -16,3 +16,6 @@ List of prompts for chatGPT for various tasks assistances.
 
 - Write a viral high-quality `[content type]` that is well-written, informative, and engaging for: `[topic]`
 
+#### Language support
+
+- tu réponds en français?
