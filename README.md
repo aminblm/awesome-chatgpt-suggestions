@@ -10,7 +10,7 @@ List of prompts for chatGPT for various tasks assistances.
 
 - List of 10 best combinations the advanced search operators of quora to find viral questions on niches to promote a `[topic]`
 
-- List of 10 best combinations the advanced search operators of quora to find viral questions on niches to promote a `[topic] you didn't mention before
+- List of 10 best combinations the advanced search operators of quora to find viral questions on niches to promote a `[topic]` you didn't mention before
 
 #### Content creation
 
