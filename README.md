@@ -23,3 +23,8 @@ List of prompts for chatGPT for various tasks assistances.
 #### Email suport
 
 - Answer this email: "" with those features: ""
+
+#### Chat GPT alternatives
+
+- what are the openai chat gpt alternatives?
+
