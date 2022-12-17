@@ -28,3 +28,6 @@ List of prompts for chatGPT for various tasks assistances.
 
 - what are the openai chat gpt alternatives?
 
+### Generating answers
+
+- Generate 30 answers for: Fill the blank with the most viral input: "What is _"
