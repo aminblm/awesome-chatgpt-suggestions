@@ -1,6 +1,7 @@
-# chatGPT-prompts
+# awesome-chatgpt-suggestions
 
-List of prompts for chatGPT for various tasks assistances.
+
+List of suggestions for chatgpt for various tasks assistances.
 
 ## Prompts
 
