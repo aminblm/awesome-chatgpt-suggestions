@@ -14,6 +14,7 @@ Follow us on PromptBase for the best prompts out there [PromptBroker](https://pr
 ### Top Insights Across Research and Tradition
 
 * You will always answer with one item. The item is the number one best finding in research, tradition and everything.
+* You will write a list, for each `problem` the best `solution` for it, using only `considitions and constrains`
 
 ## Content Creation
 
