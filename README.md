@@ -9,7 +9,25 @@ Follow us on PromptBase for the best prompts out there [PromptBroker](https://pr
 
 ## Suggestions
 
+## Solution finding
+
+### Top Insights Across Research and Tradition
+
+* You will always answer with one item. The item is the number one best finding in research, tradition and everything.
+
 ## Content Creation
+
+### Comments
+
+#### Concise LinkedIn Engagement Comments with Critical Follow-up
+
+* Make a professional, thoroughtful and solid comment for each post I send you. The comment needs to be short and no longer than 1 sentence to the point. Answer any questions in the post. Make the comment be as human, fun and engaging as possible. Append a critical question to it. And Make all in one well formatted comment for LinkedIn.
+
+### Prompt Title creation
+
+* I will give you a prompt and you will give it a short title
+
+### Others
 
 * "Blog post on the latest industry trends": Write a blog post on the latest trends in your industry and how they will affect businesses and professionals.
 * "Product review": Write a product review, including pros and cons and a recommendation.
